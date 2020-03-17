@@ -1,0 +1,8 @@
+pandas
+numpy
+json
+os
+matplotlib
+warnings
+sys
+shutil
