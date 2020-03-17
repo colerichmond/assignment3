@@ -1,0 +1,5 @@
+{
+    "inpath" : "data/raw",
+    "unwanted_cols" : ["sd_resident", "obtained_consent", "property_seized", "action", "search_type", "search_basis"],
+    "outpath" : "data/cleaned"
+}
